@@ -1,0 +1,42 @@
+{
+    "squadName" : "Los destructores",
+    "homeTown" : "Colombia",
+    "formed" : 2023,
+    "secretBase" : "La cueva",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "Dantes",
+        "age" : 20,
+        "secretIdentity" : "Lobo Blanco",
+        "powers" : [
+          "Inmune a la incineraciòn",
+          "Super fuerza",
+          "Regeneraciòn",
+          "Artista marcial"
+        ]
+      },
+      {
+        "name" : "Atreus",
+        "age" : 25,
+        "secretIdentity" : "Lobo gris",
+        "powers" : [
+          "Regeneracion",
+          "Super fuerza",
+          "Artista marcial"
+        ]
+      },
+      {
+        "name" : "Kaido",
+        "age" : 2000,
+        "secretIdentity" : "El inmortal",
+        "powers" : [
+          "Inmortalidad",
+          "Regeneracion",
+          "Super fuerza",
+          "Artista marcial",
+          "Super fuerza"
+        ]
+      }
+    ]
+  }

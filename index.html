@@ -43,7 +43,7 @@
       header.appendChild(myH1);
 
       const myPara = document.createElement('p');
-      myPara.textContent = `Hometown: ${obj.homeTown} // Formed: ${obj.formed}`;
+      myPara.textContent = `Pais: ${obj.homeTown} // Fundado: ${obj.formed}`;
       header.appendChild(myPara);
     }
 
@@ -62,7 +62,7 @@
         myH2.textContent = hero.name;
         myPara1.textContent = `Identidad secreta: ${hero.secretIdentity}`;
         myPara2.textContent = `Años: ${hero.age}`;
-        myPara3.textContent = 'Superpowers:';
+        myPara3.textContent = 'Super poderes:';
 
         const superPowers = hero.powers;
         for (const power of superPowers) {
